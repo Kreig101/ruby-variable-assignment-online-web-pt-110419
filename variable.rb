@@ -1,6 +1,4 @@
-def greeting
-  puts "Hello World"
-end
+greeting = "Hello World"
 
 
  # Define a local variable called 'greeting',
